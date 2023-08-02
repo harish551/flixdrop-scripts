@@ -33,7 +33,7 @@ omniflixhubd q tx {tx_hash} --node https://rpc.omniflix.network:443
 ## Example Output
 ```
 $ python3 claim_flix.py                                                  
-Enter your omniflix address (omniflix1..): omniflix1fmvc9d
+Enter your omniflix address (omniflix1..): omniflix1fmvc.....
 fetching claimable flix & campaigns..
 
 -----------------------------------------------
